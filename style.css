@@ -1,0 +1,538 @@
+body {
+
+	background-image: url("img/Cover image.jpg");
+    background-size: cover;
+    background-position: center center;
+	font-family: monospace;
+
+}
+
+/*Stuff below governs the start screen*/
+
+.titleContent {
+	margin: 10% auto;
+    text-align: center;
+}
+
+.splashTitle {
+	color:#FFFF00;
+    font-size: 8em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+}
+
+.button {
+	border: 5px solid #000000;
+    color: #ffffff;
+    height:500px;
+    width:500px; 
+    font-size: 5em;
+    text-decoration: none;
+    background-color: #000000;
+    box-shadow: 15px 15px 80px #555;
+}
+  a.button:hover {
+    background-color: #FFFF00;
+    color:#000000;
+  }
+/*Stuff below governs the Explore screen*/
+#characterone{
+ background-image: url("img/R2-D2.jpg");
+ height:161px; 
+ width:240px;
+ margin-top: -100px;
+ margin-left:500px;
+}
+#charactertwo{
+    background-image: url("img/BB-8.jpg");
+    height:161px;
+    width:240px;
+}
+#instructions{
+    background-color: white;
+    text-align: center;
+    height:250px; 
+    width:300px;
+    margin-left:522px;
+}
+
+.buttonone {
+    border: 5px solid #000000;
+    color: #ffffff;
+    height:500px;
+    width:500px; 
+    font-size: 5em;
+    text-decoration: none;
+    background-color: #000000;
+    box-shadow: 15px 15px 80px #555;
+    margin-left: 440px;
+
+}
+  a.buttonone:hover {
+    background-color: #FFFF00;
+    color:#000000;
+  }
+
+  .buttontwo {
+    border: 5px solid #000000;
+    color: #ffffff;
+    height:500px;
+    width:500px; 
+    font-size: 5em;
+    text-decoration: none;
+    background-color: #000000;
+    box-shadow: 15px 15px 80px #555;
+    margin-left: 100px;
+
+}
+  a.buttontwo:hover {
+    background-color: #FFFF00;
+    color:#000000;
+  }
+  /*bottom governs R2 D2*/
+  #charcterforgame{
+    background-image: url("img/R2-D2.psd");
+    height: 161px;
+    width: 240px;
+  }
+  #howtowin{
+    background-image: url("img/You win one.psd");
+    height: 161px;
+    width: 240px:;
+    margin-top: 806px;
+    margin-left: 720px;
+  }
+  #gameover{
+    background-image: url("img/Game Over.psd");
+     background-size: cover;
+    background-position: center center;
+}
+#youwin{
+    background-image: url("img/You Win.psd");
+     background-size: cover;
+    background-position: center center;
+}
+
+      #stormtrooperthirtyone{
+    background-image: url("img/stormtroopers.jpg");
+    height: 161px;
+    width: 240px;
+    margin-top:806px;
+   }
+      #stormtrooperthirtytwo{
+    background-image: url("img/stormtroopers.jpg");
+    height: 161px;
+    width: 240px;
+     margin-top:806px;
+     margin-left: 240px;
+   }
+      #stormtrooperthirtythree{
+    background-image: url("img/stormtroopers.jpg");
+    height: 161px;
+    width: 240px;
+    margin-top:806px;
+    margin-left: 480px;
+   }
+      #stormtrooperthirtyfour{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px; 
+    width: 240px;
+     margin-top:806px;
+     margin-left: 720px;
+   }
+      #stormtrooperthirtyfive{
+    background-image: url("img/stormtroopers.sd");
+    height: 161px;
+    width: 240px;
+     margin-top:806px;
+     margin-left: 960px;
+   }
+      #stormtrooperthirtysix{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+     margin-top:806px;
+     margin-left: 1200px;
+   }
+      #stormtrooperthirtyseven{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 645px;
+   }
+      #stormtrooperthirtyeight{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 645px;
+     margin-left: 240px;
+   }
+      #stormtrooperthirtynine{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+     margin-top: 645px;
+     margin-left: 480px;
+   }
+      #stormtrooperfourty{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+     margin-top: 645px;
+     margin-left: 720px;
+   }
+      #stormtrooperfourtyone{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+     margin-top: 645px;
+     margin-left: 960px;
+   }
+      #stormtrooperfourtytwp{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+     margin-top: 645px;
+     margin-left: 1200px;
+   }
+      #stormtrooperfourtythree{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 484px;
+   }       
+      #stormtrooperfourtyfour{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 484px;
+    margin-left:240px;
+   }    
+      #stormtrooperfourtyfive{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 484px;
+    margin-left: 480px;
+   }
+      #stormtrooperfourtysix{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 484px;
+    margin-left: 720px;
+   }
+      #stormtrooperfourtyseven{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 484px;
+    margin-left: 960px;
+   }
+      #stormtrooperfourtyeight{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 484px;
+    margin-left: 1200;
+   }
+      #stormtrooperfourtynine{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 323px;
+   }
+      #stormtrooperfifty{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 323px;
+    margin-left: 240px;
+   }
+      #stormtrooperfiftyone{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 323px;
+    margin-left: 480px;
+   }
+      #stormtrooperfiftytwo{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 323px;
+    margin-left: 720px;
+   }
+      #stormtrooperfiftythree{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 323px;
+    margin-left: 960px;
+   }
+      #stormtrooperfiftyfour{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-top: 323px;
+    margin-left: 1200px;
+   }
+      #stormtrooperfiftyfive{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+   }
+      #stormtrooperfiftysix{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-left: 240px;
+   }
+      #stormtrooperfiftyseven{
+    background-image: url("img/stormtroopers.psd");
+    height: 161px;
+    width: 240px;
+    margin-left: 480px;
+   }
+      #stormtrooperfiftyeight{
+    background-image: url("img/stormtroopers.psd");
+     height: 161px;
+     width: 240px;
+     margin-left: 720px;
+   }
+      #stormtrooperfiftynine{
+    background-image: url("img/stormtroopers.psd");
+     height: 161px;
+     width: 240px;
+     margin-left: 960px;
+   }
+      #stormtroopersixty{
+    background-image: url("img/stormtroopers.psd");
+     height: 161px;
+     width: 240px;
+     margin-left: 1200px;
+   }
+
+  /*bottom governs BB-8*/
+  #charcterforgametwo{
+    background-image: url("img/BB-8.psd");
+    height: 161px;
+    width: 240px;
+  }
+  #howtowintwo{
+     background-image: url("img/You win one.psd");
+    height: 161px;
+    width: 240px:;
+    margin-top: 806px;
+    margin-left: 720px;
+  }
+#gameovertwo{
+    background-image: url("img/Game Over.psd");
+     background-size: cover;
+    background-position: center center;
+}
+#youwintwo{
+    background-image: url("img/You Win.psd");
+     background-size: cover;
+    background-position: center center;
+}
+
+   #stormtrooperone{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top:806px;
+   }
+   #stormtroopertwo{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top:806px;
+  margin-left: 240px;
+   }
+   #stormtrooperthree{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top:806px;
+  margin-left: 480px;
+   }
+   #stormtrooperfour{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top:806px;
+  margin-left: 720px;
+   }
+   #stormtrooperfive{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top:806px;
+  margin-left: 960px;
+   }
+   #stormtroopersix{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top:806px;
+  margin-left: 1200px;
+   }
+   #stormtrooperseven{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 645px;
+   }
+   #stormtroopereight{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 645px;
+  margin-left: 240px;
+   }
+   #stormtroopernine{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 645px;
+  margin-left: 480px;
+   }
+   #stormtrooperten{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 645px;
+  margin-left: 720px;
+   }
+   #stormtroopereleven{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 645px;
+  margin-left: 960px;
+   }
+   #stormtroopertwelve{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 645px;
+  margin-left: 1200px;
+   }
+   #stormtrooperthirteen{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+   margin-top: 484px;
+   }
+   #stormtrooperfourteen{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+   margin-top: 484px;
+   margin-left: 240px;
+   }
+   #stormtrooperfifthteen{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+   margin-top: 484px;
+   margin-left: 480px;
+   }
+   #stormtroopersixteen{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+   margin-top: 484px;
+   margin-left: 720px;
+   }
+   #stormtrooperseventeen{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+   margin-top: 484px;
+   margin-left: 960px;
+   }
+   #stormtroopereightteen{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+   margin-top: 484px;
+   margin-left: 1200px;
+   }
+   #stormtroopernineteen{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 323px;
+   }
+   #stormtroopertwenty{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 323px;
+  margin-left: 240px;
+   }
+   #stormtroopertwentyone{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 323px;
+  margin-left: 480px;
+   }
+   #stormtroopertwentytwo{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 323px;
+  margin-left: 720px;
+   }
+   #stormtroopertwentythree{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 323px;
+  margin-left: 960px;
+   }
+   #stormtroopertwentyfour{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-top: 323px;
+  margin-left: 1200px;
+   }
+   #stormtroopertwentyfive{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+   }
+   #stormtroopertwentysix{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-left: 240px;
+   }
+   #stormtroopertwentyseven{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-left: 480px;
+   }
+   #stormtroopertwentyeight{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-left: 720px;
+   }
+   #stormtroopertwentynine{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-left: 960px;
+   }
+   #stormtrooperthirty{
+ background-image: url("img/stormtroopers.psd");
+  height: 161px;
+  width: 240px;
+  margin-left: 1200px;
+   }
