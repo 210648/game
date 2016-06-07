@@ -90,6 +90,12 @@ body {
     color:#000000;
   }
   /*bottom governs R2 D2*/
+  #coverone{
+    background-image: url("img/Game background.jpg");
+      background-size: cover;
+    background-position: center center;
+  font-family: monospace;
+  }
   #charcterforgame{
     background-image: url("img/R2-D2.psd");
     height: 161px;
@@ -314,6 +320,13 @@ body {
    }
 
   /*bottom governs BB-8*/
+#covertwo{
+  background-image: url("img/Game background.jpg");
+      background-size: cover;
+    background-position: center center;
+  font-family: monospace;
+}
+
   #charcterforgametwo{
     background-image: url("img/BB-8.psd");
     height: 161px;

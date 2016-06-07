@@ -42,8 +42,9 @@ $(document).keydown(function(e) {
 });
     $("#charcterforgame").show();
     $('.stormtroopers').hide();
+     $('.win'),hide();
 
-    $("#buttonone").click(function(){
+    $('.buttonone').click(function(){
      $("#stormtrooperthirtyone").show();
      $("#stormtrooperthirtythree").show();
      $("#stormtrooperthirtyfour").show();
@@ -562,3 +563,6 @@ $(document).keydown(function(e) {
      $("#stormtrooperfiftyseven").hide(200000);
      $("#stormtrooperfiftynine").hide(200000);
      $("#stormtroopersixty").hide(200000)
+      $("#howtowin").show(201000);
+    });
+  };); 
