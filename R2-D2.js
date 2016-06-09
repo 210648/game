@@ -39,6 +39,7 @@ $(document).keydown(function(e) {
 
     $.each($('.stormtroopers'), function() {
       if (collision($('#charcterforgame'), $(this)))
+          $("#gameover").show();
 });
     $("#charcterforgame").show();
     $('.stormtroopers').hide();

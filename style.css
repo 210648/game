@@ -37,14 +37,14 @@ body {
   }
 /*Stuff below governs the Explore screen*/
 #characterone{
- background-image: url("img/R2-D2.jpg");
+ background-image: url("img/R2D2.jpg");
  height:161px; 
  width:240px;
  margin-top: -100px;
  margin-left:500px;
 }
 #charactertwo{
-    background-image: url("img/BB-8.jpg");
+    background-image: url("img/BB8.jpg");
     height:161px;
     width:240px;
 }
@@ -92,12 +92,12 @@ body {
   /*bottom governs R2 D2*/
   #coverone{
     background-image: url("img/Gamebackground.jpg");
-    background-size:1440 806;
+    background-size:1440px 806px;
     background-position: center center;
   font-family: monospace;
   }
   #charcterforgame{
-    background-image: url("img/R2-D2.jpg");
+    background-image: url("img/R2D2.jpg");
     height: 161px;
     width: 240px;
   }
@@ -120,27 +120,27 @@ body {
 }
 
       #stormtrooperthirtyone{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top:806px;
    }
       #stormtrooperthirtytwo{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
      margin-top:806px;
      margin-left: 240px;
    }
       #stormtrooperthirtythree{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top:806px;
     margin-left: 480px;
    }
       #stormtrooperthirtyfour{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px; 
     width: 240px;
      margin-top:806px;
@@ -154,166 +154,166 @@ body {
      margin-left: 960px;
    }
       #stormtrooperthirtysix{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
      margin-top:806px;
      margin-left: 1200px;
    }
       #stormtrooperthirtyseven{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 645px;
    }
       #stormtrooperthirtyeight{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 645px;
      margin-left: 240px;
    }
       #stormtrooperthirtynine{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
      margin-top: 645px;
      margin-left: 480px;
    }
       #stormtrooperfourty{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
      margin-top: 645px;
      margin-left: 720px;
    }
       #stormtrooperfourtyone{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
      margin-top: 645px;
      margin-left: 960px;
    }
       #stormtrooperfourtytwp{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
      margin-top: 645px;
      margin-left: 1200px;
    }
       #stormtrooperfourtythree{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 484px;
    }       
       #stormtrooperfourtyfour{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 484px;
     margin-left:240px;
    }    
       #stormtrooperfourtyfive{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 484px;
     margin-left: 480px;
    }
       #stormtrooperfourtysix{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 484px;
     margin-left: 720px;
    }
       #stormtrooperfourtyseven{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 484px;
     margin-left: 960px;
    }
       #stormtrooperfourtyeight{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 484px;
     margin-left: 1200;
    }
       #stormtrooperfourtynine{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 323px;
    }
       #stormtrooperfifty{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 323px;
     margin-left: 240px;
    }
       #stormtrooperfiftyone{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 323px;
     margin-left: 480px;
    }
       #stormtrooperfiftytwo{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 323px;
     margin-left: 720px;
    }
       #stormtrooperfiftythree{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 323px;
     margin-left: 960px;
    }
       #stormtrooperfiftyfour{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-top: 323px;
     margin-left: 1200px;
    }
       #stormtrooperfiftyfive{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
    }
       #stormtrooperfiftysix{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-left: 240px;
    }
       #stormtrooperfiftyseven{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
     height: 161px;
     width: 240px;
     margin-left: 480px;
    }
       #stormtrooperfiftyeight{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
      height: 161px;
      width: 240px;
      margin-left: 720px;
    }
       #stormtrooperfiftynine{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
      height: 161px;
      width: 240px;
      margin-left: 960px;
    }
       #stormtroopersixty{
-    background-image: url("img/stormtroopers.jpg");
+    background-image: url("img/stormtrooper.jpg");
      height: 161px;
      width: 240px;
      margin-left: 1200px;
@@ -321,14 +321,14 @@ body {
 
   /*bottom governs BB-8*/
 #covertwo{
-  background-image: url("img/Gamebackground.jpg");
-      background-size: cover;
+    background-image: url("img/Gamebackground.jpg");
+    background-size:1440px 806px;
     background-position: center center;
   font-family: monospace;
-}
+  }
 
   #charcterforgametwo{
-    background-image: url("img/BB-8.jpg");
+    background-image: url("img/BB8.jpg");
     height: 161px;
     width: 240px;
   }
@@ -340,211 +340,211 @@ body {
     margin-left: 720px;
   }
 #gameovertwo{
-    background-image: url("img/Game Over.jpg");
+    background-image: url("img/GameOver.jpg");
      background-size: cover;
     background-position: center center;
 }
 #youwintwo{
-    background-image: url("img/You Win.jpg");
+    background-image: url("img/YouWin.jpg");
      background-size: cover;
     background-position: center center;
 }
 
    #stormtrooperone{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top:806px;
    }
    #stormtroopertwo{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top:806px;
   margin-left: 240px;
    }
    #stormtrooperthree{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top:806px;
   margin-left: 480px;
    }
    #stormtrooperfour{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top:806px;
   margin-left: 720px;
    }
    #stormtrooperfive{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top:806px;
   margin-left: 960px;
    }
    #stormtroopersix{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top:806px;
   margin-left: 1200px;
    }
    #stormtrooperseven{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 645px;
    }
    #stormtroopereight{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 645px;
   margin-left: 240px;
    }
    #stormtroopernine{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 645px;
   margin-left: 480px;
    }
    #stormtrooperten{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 645px;
   margin-left: 720px;
    }
    #stormtroopereleven{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 645px;
   margin-left: 960px;
    }
    #stormtroopertwelve{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 645px;
   margin-left: 1200px;
    }
    #stormtrooperthirteen{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
    margin-top: 484px;
    }
    #stormtrooperfourteen{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
    margin-top: 484px;
    margin-left: 240px;
    }
    #stormtrooperfifthteen{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
    margin-top: 484px;
    margin-left: 480px;
    }
    #stormtroopersixteen{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
    margin-top: 484px;
    margin-left: 720px;
    }
    #stormtrooperseventeen{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
    margin-top: 484px;
    margin-left: 960px;
    }
    #stormtroopereightteen{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
    margin-top: 484px;
    margin-left: 1200px;
    }
    #stormtroopernineteen{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 323px;
    }
    #stormtroopertwenty{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 323px;
   margin-left: 240px;
    }
    #stormtroopertwentyone{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 323px;
   margin-left: 480px;
    }
    #stormtroopertwentytwo{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 323px;
   margin-left: 720px;
    }
    #stormtroopertwentythree{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 323px;
   margin-left: 960px;
    }
    #stormtroopertwentyfour{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-top: 323px;
   margin-left: 1200px;
    }
    #stormtroopertwentyfive{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
    }
    #stormtroopertwentysix{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-left: 240px;
    }
    #stormtroopertwentyseven{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-left: 480px;
    }
    #stormtroopertwentyeight{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-left: 720px;
    }
    #stormtroopertwentynine{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-left: 960px;
    }
    #stormtrooperthirty{
- background-image: url("img/stormtroopers.jpg");
+ background-image: url("img/stormtrooper.jpg");
   height: 161px;
   width: 240px;
   margin-left: 1200px;

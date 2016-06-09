@@ -1,24 +1,24 @@
 $(document).keydown(function(e) {
-    $(charactertwo).keydown;
+    $("#charcterforgametwo").keydown;
     switch (e.which) {
 
       //move left
       case 37:
-        $(charactertwo).animate({
+        $("#charcterforgametwo").animate({
           left: "-=40px"
         }, 'fast');
         break;
 
         //move up
       case 38:
-        $(charactertwo).animate({
+        $("#charcterforgametwo").animate({
           top: "-=40px"
         }, 'fast');
         break;
 
         //move right
       case 39:
-        $(charactertwo).animate({
+        $("#charcterforgametwo").animate({
           left: "+=40px"
         }, 'fast');
         break;
@@ -37,11 +37,10 @@ $(document).keydown(function(e) {
     var b2 = y2 + h2;
     var r2 = x2 + w2;
 
-    $.each($('.stormtroopers'), function() {
-      if (collision($('#charactertwo'), $(this)))
-
-        $("#gameovertwo").show().delay()
-    }
+      $.each($('.stormtroopers'), function() {
+      if (collision($('#charcterforgame'), $(this)))
+          $("#gameovertwo").show();
+});
 
       $.each($('.win'), function(){
 $("youwintwo").show().delay()
